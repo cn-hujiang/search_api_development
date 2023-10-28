@@ -1,0 +1,2 @@
+# search_api_development
+用户输入词查询商品项目API
